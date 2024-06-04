@@ -3,8 +3,8 @@ module github.com/gofika/yamlutil
 go 1.21.6
 
 require (
-	github.com/gofika/fileutil v0.0.0-20240131102009-bae13d620fcd
-	github.com/stretchr/testify v1.8.4
+	github.com/gofika/fileutil v0.0.0-20240604055302-e4cb1b6868db
+	github.com/stretchr/testify v1.9.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
